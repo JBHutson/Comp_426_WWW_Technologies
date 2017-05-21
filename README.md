@@ -1,2 +1,3 @@
 # WWW_Technology
-Code for teaching myself WWW languages
+Course description (Directly from syllabus): 
+The World Wide Web has evolved over the past two decades from a relatively simply hypertext system of linked documents to a full-featured platform for developing interactive, distributed applications. This course will introduce students to the architecture of modern web-based applications and the key technologies that underlie them. Emphasis is placed on understanding web applications as examples of the Model-View-Controller design pattern, asynchronous event-driven programming (i.e., AJAX), and the use of RESTful interfaces to web services. Students will exercise their understanding of these concepts in a series of programming assignments using HTML5, CSS3, JavaScript, PHP, and SQL. The course is intended for majors.
