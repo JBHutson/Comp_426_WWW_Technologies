@@ -1,0 +1,54 @@
+p#LTitle {
+	font-weight: bold;
+	font-family: "Courier New";
+}
+
+*.center {
+	text-align: center;
+}
+
+img {
+	height: 599px;
+	width: 467px;
+	border-style: solid;
+	border-color: #ADD8E6
+}
+
+* {
+	background-color: black;
+	color: white;
+}
+
+ul {
+	list-style-position:inside;
+}
+
+ol {
+	list-style-position:inside;
+}
+
+#MainText {
+	background-color: #0000A0;
+	font-family: "Verdana"
+}
+
+li:hover {
+	font-style: italic;
+	color: red;
+}
+
+a:hover {
+	color: green;
+}
+
+div > p {
+	background-color: #FF8C00;
+}
+
+#TheseusLink{
+	background-color: #0000A0;
+}
+
+#TheseusLinkP{
+	background-color: #ff8C00;
+}
